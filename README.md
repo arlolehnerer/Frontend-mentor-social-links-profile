@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](Screenshot of Social Links.png)
+![Screenshot](Screenshot.png)
 
 
 ## My process
