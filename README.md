@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./"Screenshot of Social Links")
+[Screenshot](./"Screenshot of Social Links")
 
 
 ## My process
@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [EResource for Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+- [Resource for Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 
 ## Author
 
