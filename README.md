@@ -26,7 +26,7 @@ Users should be able to:
 
 
 ## My process
-- Recently started to learn HTML and CSS and did this quick exercise to practise my skills
+- Recently started to learn HTML and CSS and did this quick exercise to practise my skills. I am very much a beginner.
 
 ### Useful resources
 
