@@ -98,3 +98,12 @@ a {
 a:hover {
     color: hsl(0, 0%, 8%);
 }
+
+.link:focus {
+    background: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
+}
+
+a:focus {
+    color: hsl(0, 0%, 8%);
+}
